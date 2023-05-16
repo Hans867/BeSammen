@@ -21,7 +21,10 @@
             </intent-filter>
         </activity>
         <activity android:name=".HomePageActivity"/>
-        <activity android:name=".PublicForumActivity"/>
+        <activity android:name=".publicForum.PublicForumActivity"/>
+        <activity android:name=".groupChat.GroupChatActivity"/>
+        <activity android:name=".privateChat.PrivateChatActivity"/>
+        <activity android:name=".psychologistTalk.PsychologistTalkActivity"/>
 
     </application>
 
