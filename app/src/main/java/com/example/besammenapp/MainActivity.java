@@ -11,7 +11,7 @@ import kotlinx.coroutines.Delay;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final int SPLASH_DELAY = 2000;
+    private static final int SPLASH_DELAY = 4000;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
