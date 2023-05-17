@@ -7,8 +7,9 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="319dp"
+        android:layout_height="109dp"
+        android:layout_marginTop="28dp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
@@ -28,8 +29,8 @@
 
     <ImageButton
         android:id="@+id/imageButton2"
-        android:layout_width="117dp"
-        android:layout_height="105dp"
+        android:layout_width="106dp"
+        android:layout_height="103dp"
         android:layout_marginTop="24dp"
         android:onClick="groupChatBtn"
         app:layout_constraintEnd_toEndOf="parent"
@@ -40,8 +41,8 @@
 
     <ImageButton
         android:id="@+id/imageButton3"
-        android:layout_width="114dp"
-        android:layout_height="104dp"
+        android:layout_width="104dp"
+        android:layout_height="101dp"
         android:layout_marginTop="32dp"
         android:onClick="privateChatBtn"
         app:layout_constraintEnd_toEndOf="parent"
@@ -52,12 +53,13 @@
 
     <ImageButton
         android:id="@+id/imageButton4"
-        android:layout_width="110dp"
-        android:layout_height="108dp"
+        android:layout_width="105dp"
+        android:layout_height="101dp"
         android:onClick="psychTalkBtn"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageButton3"
+        app:layout_constraintVertical_bias="0.343"
         tools:srcCompat="@tools:sample/avatars" />
 </androidx.constraintlayout.widget.ConstraintLayout>
