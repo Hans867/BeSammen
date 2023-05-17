@@ -3,7 +3,7 @@ name: Build and push to default branch
 on:
   push:
     branches-ignore:
-      - main
+      - master
 
 jobs:
   build-and-push:
