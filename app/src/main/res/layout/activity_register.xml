@@ -6,8 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:gravity="center"
-    android:padding="8dp"
-    tools:context=".userOnboarding.LoginActivity">
+    android:padding="16dp"
+    tools:context=".userOnboarding.RegisterActivity">
 
     <ImageView
         android:id="@+id/imageView5"
@@ -39,10 +39,10 @@
         android:layout_marginBottom="16dp"/>
 
     <Button
-        android:id="@+id/loginButton"
+        android:id="@+id/registerButton"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/login"
+        android:text="@string/register"
         android:padding="12dp"
         android:textColor="#FFFFFF" />
 

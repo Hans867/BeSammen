@@ -5,9 +5,9 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.os.Handler;
-import android.view.View;
 
-import kotlinx.coroutines.Delay;
+import com.example.besammenapp.userOnboarding.LoginActivity;
+import com.example.besammenapp.userOnboarding.RegisterActivity;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -22,8 +22,8 @@ public class MainActivity extends AppCompatActivity {
     new Handler().postDelayed(new Runnable() {
 
         public void run() {
-            Intent intentToHomePageActivity = new Intent(MainActivity.this, HomePageActivity.class);
-            startActivity(intentToHomePageActivity);
+            Intent intentToLoginActivity = new Intent(MainActivity.this, RegisterActivity.class);
+            startActivity(intentToLoginActivity);
             finish();
         }
     }, SPLASH_DELAY);
