@@ -25,6 +25,7 @@
         <activity android:name=".groupChat.GroupChatActivity"/>
         <activity android:name=".privateChat.PrivateChatActivity"/>
         <activity android:name=".psychologistTalk.PsychologistTalkActivity"/>
+        <activity android:name=".LoginActivity"/>
 
     </application>
 
