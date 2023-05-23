@@ -22,6 +22,7 @@ public class PrivateChatActivity extends AppCompatActivity {
         Intent intentBackToHomePage = new Intent(this, HomePageActivity.class);
 
         startActivity(intentBackToHomePage);
+        finish();
     }
 
 }

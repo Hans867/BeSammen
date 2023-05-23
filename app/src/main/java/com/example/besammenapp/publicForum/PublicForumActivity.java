@@ -24,5 +24,6 @@ public class PublicForumActivity extends AppCompatActivity {
         Intent intentBackToHomePage = new Intent(this, HomePageActivity.class);
 
         startActivity(intentBackToHomePage);
+        finish();
     }
 }

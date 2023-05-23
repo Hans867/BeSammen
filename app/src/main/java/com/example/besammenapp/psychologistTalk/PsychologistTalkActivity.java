@@ -22,5 +22,6 @@ public class PsychologistTalkActivity extends AppCompatActivity {
         Intent intentBackToHomePage = new Intent(this, HomePageActivity.class);
 
         startActivity(intentBackToHomePage);
+        finish();
     }
 }
