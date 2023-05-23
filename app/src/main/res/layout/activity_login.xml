@@ -13,8 +13,7 @@
         android:id="@+id/imageView5"
         android:layout_width="326dp"
         android:layout_height="290dp"
-
-        tools:srcCompat="@tools:sample/avatars" />
+        android:background="@drawable/besammenlogo" />
 
     <View
         android:layout_width="8dp"
