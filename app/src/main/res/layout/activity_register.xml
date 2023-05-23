@@ -46,4 +46,17 @@
         android:padding="12dp"
         android:textColor="#FFFFFF" />
 
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/already_have_an_account" />
+
+    <Button
+        android:id="@+id/button5"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/log_in"
+        android:onClick="goToLogin"/>
+
 </LinearLayout>

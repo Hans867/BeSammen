@@ -4,4 +4,6 @@
     <string name="email">Email</string>
     <string name="login">Login</string>
     <string name="register">Register</string>
+    <string name="log_in">LOG IN</string>
+    <string name="already_have_an_account">Already have an account?</string>
 </resources>
