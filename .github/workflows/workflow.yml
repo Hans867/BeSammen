@@ -1,4 +1,4 @@
-name: Build and push to default branch
+name: Automatic Build and Deployement
 
 on:
   push:
