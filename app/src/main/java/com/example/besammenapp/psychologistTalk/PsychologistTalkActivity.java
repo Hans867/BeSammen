@@ -24,4 +24,18 @@ public class PsychologistTalkActivity extends AppCompatActivity {
         startActivity(intentBackToHomePage);
         finish();
     }
+
+    public void bookBtn (View view) {
+
+        Intent intentToBookPsychologistActivity = new Intent(this,BookPsychologistActivity.class);
+
+        startActivity(intentToBookPsychologistActivity);
+    }
+
+    public void infoBtn (View view) {
+
+        Intent intentToPsychologistInfoActivity = new Intent (this, PsychologistInfoActivity.class);
+
+        startActivity(intentToPsychologistInfoActivity);
+    }
 }

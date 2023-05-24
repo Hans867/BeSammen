@@ -10,10 +10,33 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="16dp"
-        android:text="tilbage"
+        android:text="Tilbage"
         android:onClick="backBtnPsychTalk"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.05"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <ImageButton
+        android:id="@+id/imageButton5"
+        android:layout_width="365dp"
+        android:layout_height="336dp"
+        android:layout_marginTop="136dp"
+        android:background="@drawable/bookpsychologist"
+        android:onClick="bookBtn"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/button4" />
+
+    <ImageButton
+        android:id="@+id/imageButton6"
+        android:layout_width="365dp"
+        android:layout_height="164dp"
+        android:background="@drawable/infopsychologist"
+        android:onClick="infoBtn"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/imageButton5"
+        app:layout_constraintVertical_bias="0.322" />
 </androidx.constraintlayout.widget.ConstraintLayout>
