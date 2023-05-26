@@ -5,19 +5,33 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    android:gravity="center"
+    android:gravity="top|start"
     android:padding="8dp"
     tools:context=".userOnboarding.LoginActivity">
+
+
+    <Button
+        android:id="@+id/button8"
+        android:layout_width="108dp"
+        android:layout_height="58dp"
+        android:text="Tilbage"
+        android:layout_gravity="start|top"
+        android:onClick="backBtnLogin"/>
+
+    <View
+        android:layout_width="8dp"
+        android:layout_height="80dp"/>
 
     <ImageView
         android:id="@+id/imageView5"
         android:layout_width="326dp"
         android:layout_height="290dp"
+        android:layout_gravity="center"
         android:background="@drawable/besammenlogo" />
 
     <View
         android:layout_width="8dp"
-        android:layout_height="40dp"/>
+        android:layout_height="60dp"/>
 
     <EditText
         android:id="@+id/emailEditText"

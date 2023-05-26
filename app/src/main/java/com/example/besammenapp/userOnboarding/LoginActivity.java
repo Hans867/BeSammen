@@ -73,5 +73,13 @@ public class LoginActivity extends AppCompatActivity {
             }
         });
     }
+
+    public void backBtnLogin (View view) {
+
+        Intent intentToRegisterActivity = new Intent(this,RegisterActivity.class);
+
+        startActivity(intentToRegisterActivity);
+        finish();
+    }
 }
 
