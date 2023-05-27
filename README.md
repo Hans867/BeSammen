@@ -35,3 +35,8 @@ The four main activities doesn't have much functionality and is proof of concept
 Thank you for checking out our app.
 
 Hans867 & Frizzy1209
+
+## Bidrag
+
+If you wish to contribute to out project, please read our [guidance to contributes](CONTRIBUTING.md).
+
