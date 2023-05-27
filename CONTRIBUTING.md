@@ -4,11 +4,11 @@ Thank you for considering contributing to our project! Please follow the guideli
 
 ## Reporting Issues
 
-Report it to Hans867 or Frizzy1209
+Report the issue to Hans867 or Frizzy1209
 
 ## Proposing New Features
 
-Reach to either Hans867 or Frizzy1209.
+Reach out to either Hans867 or Frizzy1209.
 
 ## Code Conventions
 
