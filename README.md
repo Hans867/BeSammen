@@ -1,4 +1,4 @@
-This is our app BeSammen which is made for helping young people struggling with psoriasis. It is helping them by being able to talk to peers with Psoriasis as well. By creating such cummunity for them, they will be able to find support in each other, get tips & tricks to treatment options and other problematics that can help them in their everyday life and increase their quiality of life.
+This is our app BeSammen which is made for helping young people struggling with psoriasis. It is helping them by being able to talk to peers with Psoriasis as well. By creating such cummunity for them, they will be able to find support in each other, get tips & tricks to treatment options and other problematics that can help them in their everyday life and increase their quality of life.
 
 To run this project you will need and IDE like Android Studios. It is very user friendly so you don't have to be tech savy.
 
