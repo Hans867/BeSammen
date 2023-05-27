@@ -38,5 +38,5 @@ Hans867 & Frizzy1209
 
 ## Bidrag
 
-If you wish to contribute to out project, please read our [guidance to contributes](CONTRIBUTING.md).
+If you wish to contribute to our project, please read our [guidance to contributes](CONTRIBUTING.md).
 
