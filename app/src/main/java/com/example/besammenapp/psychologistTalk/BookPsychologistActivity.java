@@ -25,4 +25,12 @@ public class BookPsychologistActivity extends AppCompatActivity {
         finish();
     }
 
+    public void confirmedBooking (View view) {
+
+        Intent intentToConfirmedBookingActivity = new Intent(this, ConfirmedBookingActivity.class);
+
+        startActivity(intentToConfirmedBookingActivity);
+        finish();
+    }
+
 }
