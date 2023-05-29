@@ -10,13 +10,11 @@ If you download the project here is a quick walkthrough:
 
 When you run the app the following picture will be shown for four seconds, before you are redirected to the onboarding proces.
 
-<img width="199" alt="Skærmbillede 2023-05-27 kl  21 42 13" src="https://github.com/Hans867/BeSammen/assets/111958109/6917fb71-6bc5-48d5-aad4-65398359529d">
+<img width="187" alt="Skærmbillede 2023-05-29 kl  10 58 28" src="https://github.com/Hans867/BeSammen/assets/111958109/b8d66fa8-3faa-4359-8397-838a9f8565fb">
 
 The onboarding proces is very simple and require you to create a user with e-mail and password.
 
 If you already have an account you go straight to the login activity by pressing the login button.
-
-<img width="187" alt="Skærmbillede 2023-05-29 kl  10 58 28" src="https://github.com/Hans867/BeSammen/assets/111958109/b8d66fa8-3faa-4359-8397-838a9f8565fb">
 
 After you have registred you will be shown the login activity, where you use the e-mail and password for the user you just created.
 
