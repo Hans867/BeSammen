@@ -28,14 +28,5 @@ public class MainActivity extends AppCompatActivity {
         }
     }, SPLASH_DELAY);
 
-    /* public void beSammen (View view) {
-
-        Intent intentToHomePageActivity = new Intent(this, HomePageActivity.class);
-
-        startActivity(intentToHomePageActivity);
-    }
-
-     */
-
     }
 }
