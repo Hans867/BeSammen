@@ -4,7 +4,7 @@ To run this project you will need and IDE like Android Studios. It is very user 
 
 If you wanna get a feeling of what this app can provide & and how to navigate it before downloading it you can try out figma, which is an exact wireframe of the project:
 
-https://www.figma.com/file/dOmXmKogFCD2TcP7qyOb3I/BeSammen?type=design&node-id=0-1&t=fVgM3xnTivnYoVLv-0 
+https://www.figma.com/proto/dOmXmKogFCD2TcP7qyOb3I/BeSammen?type=design&node-id=2-2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
 
 If you download the project here is a quick walkthrough:
 
