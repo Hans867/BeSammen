@@ -26,15 +26,17 @@ After you login is succesfull you will be shown the four different activities we
 
 These are image buttons and will take you to the activity in which the image buttons states.
 
-If you wanna see these activities i suggest you try our app :D
+If you wanna see these activities you can watch the following video:
 
 The four main activities doesn't have much functionality and is proof of concept.
+
+https://github.com/Hans867/BeSammen/assets/111958109/af2aa7ce-0205-4807-bc39-77a9e1974a95
 
 Thank you for checking out our app.
 
 Hans867 & Frizzy1209
 
-## Bidrag
+## Contribute
 
 If you wish to contribute to our project, please read our [guidance to contributes](CONTRIBUTING.md).
 
